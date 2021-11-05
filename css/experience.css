@@ -1,0 +1,38 @@
+img{
+    width: 300px;
+    max-width: 70%;
+    border-radius: 100%;
+    }
+
+h2{
+    background-color: #5C6B73;
+    text-align: center;
+    color: #C2DFE3;
+    border-radius: 10px;
+    }
+
+.project{
+    display: flex;
+    gap: 5px;
+    flex-direction: row;
+    justify-items: center;
+    align-items: flex-start;
+    }
+
+@media (max-width: 380px){
+    img{
+        width: 150px;
+        }
+    }
+
+@media (min-width: 650px){
+    img{
+        width: 200px;
+        }
+    article{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 15px;
+        }
+            
+    }

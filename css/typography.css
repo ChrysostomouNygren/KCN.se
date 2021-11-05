@@ -1,0 +1,13 @@
+h1{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: lighter;
+    text-align: center;
+}
+
+button{
+    font-weight: bold;
+}
+
+input[type="email"], textarea, main, footer, button{
+    font-family: 'Barlow', sans-serif;
+}

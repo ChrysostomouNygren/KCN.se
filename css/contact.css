@@ -1,0 +1,19 @@
+input{
+    margin: 0px 3px 10px 3px;;
+}
+
+label{
+    padding-bottom: 5px;
+}
+
+textarea{
+    width: 300px;
+    height: 100px;
+    resize: none;
+    border: 1px solid #5C6B73;
+}
+
+input[type="email"]{
+    width: 190px;
+    border: 1px solid #5C6B73;
+}

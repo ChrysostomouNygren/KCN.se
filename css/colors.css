@@ -1,0 +1,16 @@
+body{
+    background-color: #9DB4C0;
+    display: grid;
+}
+
+.header-container, main, footer{
+    background-color: #C2DFE3;
+}
+
+textarea, input[type="email"], button{
+    outline-color: #253237;
+}
+
+footer, svg{
+    color: #5C6B73;
+}
