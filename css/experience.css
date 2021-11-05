@@ -15,6 +15,7 @@ h2{
     display: flex;
     gap: 5px;
     flex-direction: row;
+    justify-content: space-between;
     justify-items: center;
     align-items: flex-start;
     }
