@@ -4,7 +4,7 @@ body{
 }
 
 .header-container, main, footer{
-    background-color: #C2DFE3;
+    background-color: #c2dfe3cb;
 }
 
 textarea, input[type="email"], button{
